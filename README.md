@@ -1,2 +1,2 @@
 # els-munka
-1.
+print("alma")
